@@ -1,9 +1,4 @@
-Below is the **ready-to-use `README.md` file content**.
-Just **create a file named `README.md` in your GitHub repo and paste this exactly** ✅
 
----
-
-````md
 # 📚 ClassFlow  
 ### Assignment Submission & Attendance Management System
 
@@ -61,7 +56,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 python init_db.py
 python app.py
-````
+
 
 Backend runs on: `http://localhost:5000`
 
