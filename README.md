@@ -128,11 +128,6 @@ student123
 
 ---
 
-## 📝 License
-
-MIT License
-
----
 
 ## 👤 Author
 
@@ -141,14 +136,5 @@ MIT License
 
 ⭐ Star the repository if you find it useful!
 
-```
 
----
-
-If you want, I can also give:
-- 🔹 **1-page recruiter README**
-- 🔹 **Resume-linked GitHub README**
-- 🔹 **Project description for internships**
-
-Just say 👍
 ```
